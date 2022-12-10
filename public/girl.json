@@ -1,0 +1,80 @@
+[
+  
+    {
+        "name": "Шапка из лисы",
+        "id": "19",
+        "price": "9999 с",
+        "image":"./image/ushanka11.jpg"
+    },
+    {
+        "name": "Платок с норкой",
+        "id": "6",
+        "price": "10 900 с",
+        "image":"./image/ushanka5.jpg"
+    },{
+        "name": "Шапка из чернобурки",
+        "id": "7",
+        "price": "6300 с",
+        "image":"./image/ushanka6.jpg"
+    },{
+        "name": "Шапка с помпоном",
+        "id": "8",
+        "price": "7515 с",
+        "image":"./image/ushanka7.jpg"
+    },
+    {
+        "name": "Кепка норковая",
+        "id": "19",
+        "price": "8300 с",
+        "image":"./image/kepka-zvezda.jpg"
+    } 
+    ,{
+        "name": "Белая меховая шапка",
+        "id": "9",
+        "price": "5999 с",
+        "image":"./image/ushanka8.jpg"
+    },
+   
+    {
+        "name": "Белая шапка ушанка",
+        "id": "11",
+        "price": "5499 с",
+        "image":"./image/ushanka10.jpg"
+    },
+    {
+        "name": "Шапка из лисы",
+        "id": "12",
+        "price": "9999 с",
+        "image":"./image/ushanka11.jpg"
+    },
+    
+    {
+        "name": "Шапка с козырьком и ушами",
+        "id": "14",
+        "price": "10 500 с",
+        "image":"./image/ushanka13.jpg"
+    },
+   
+    {
+        "name": "Шапка с помпоном",
+        "id": "16",
+        "price": "7515 с",
+        "image":"./image/norka-shapka.jpg"
+    },
+  
+    {
+        "name": "Белая меховая шапка",
+        "id": "18",
+        "price": "5 999 с",
+        "image":"./image/ushanka7.jpg"
+    },
+   
+     
+    {
+        "name": "Платок с норкой",
+        "id": "19",
+        "price": "10900 с",
+        "image":"./image/platok-mehovoy.jpg"
+    }
+   
+]    

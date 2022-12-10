@@ -1,0 +1,15 @@
+.tovar{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+  padding-top: 2rem;
+   h1{
+    font-weight: 500;
+   } 
+   input{
+      width: 250px;
+      height: 50px;
+      border-radius: 10px;
+      padding-left: 10px;
+   }
+}

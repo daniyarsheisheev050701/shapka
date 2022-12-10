@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Детская ушанка",
+        "id": "1",
+        "price": "3499 с",
+        "image":"./image/ushanka.jpg"
+    },
+    {
+        "name": "Норковая ушанка",
+        "id": "2",
+        "price": "6900 с",
+        "image":"./image/ushanka1.jpg"
+    },
+    {
+        "name": "Бейсболка кожа нат., R&V",
+        "id": "3",
+        "price": "2700 с",
+        "image":"./image/ushanka2.jpg"
+    },
+    {
+        "name": "Ушанка из ондатры",
+        "id": "4",
+        "price": "6000 с",
+        "image":"./image/ushanka3.jpg"
+    },{
+        "name": "Кепка восьмиклинка, DENKOR",
+        "id": "5",
+        "price": "1550 с",
+        "image":"./image/ushanka4.jpg"
+    },{
+        "name": "Платок с норкой",
+        "id": "6",
+        "price": "10 900 с",
+        "image":"./image/ushanka5.jpg"
+    },{
+        "name": "Шапка из чернобурки",
+        "id": "7",
+        "price": "6300 с",
+        "image":"./image/ushanka6.jpg"
+    },{
+        "name": "Шапка с помпоном",
+        "id": "8",
+        "price": "7515 с",
+        "image":"./image/ushanka7.jpg"
+    },{
+        "name": "Белая меховая шапка",
+        "id": "9",
+        "price": "5999 с",
+        "image":"./image/ushanka8.jpg"
+    },
+    {
+        "name": "Шляпа фетровая, Русь Модерн",
+        "id": "10",
+        "price": "3915 с",
+        "image":"./image/ushanka9.jpg"
+    },
+    {
+        "name": "Белая шапка ушанка",
+        "id": "11",
+        "price": "5499 с",
+        "image":"./image/ushanka10.jpg"
+    },
+    {
+        "name": "Шапка из лисы",
+        "id": "12",
+        "price": "9999 с",
+        "image":"./image/ushanka11.jpg"
+    },
+    {
+        "name": "Песцовая шапка",
+        "id": "13",
+        "price": "6900 с",
+        "image":"./image/ushanka12.jpg"
+    },
+    {
+        "name": "Шапка с козырьком и ушами",
+        "id": "14",
+        "price": "10 500 с",
+        "image":"./image/ushanka13.jpg"
+    },
+    {
+        "name": "Норковая ушанка",
+        "id": "15",
+        "price": "6900 с",
+        "image":"./image/ushanka1.jpg"
+    },
+    {
+        "name": "Детская ушанка",
+        "id": "16",
+        "price": "3499 с",
+        "image":"./image/ushanka.jpg"
+    },
+    {
+        "name": "Кепка восьмиклинка, DENKOR",
+        "id": "17",
+        "price": "1550 с",
+        "image":"./image/ushanka4.jpg"
+    },
+    {
+        "name": "Белая меховая шапка",
+        "id": "18",
+        "price": "5 999 с",
+        "image":"./image/ushanka7.jpg"
+    },
+    {
+        "name": "Шапка из лисы",
+        "id": "19",
+        "price": "9999 с",
+        "image":"./image/ushanka11.jpg"
+    },
+    {
+        "name": "Ушанка из ондатры",
+        "id": "20",
+        "price": "6000 с",
+        "image":"./image/ushanka3.jpg"
+    }
+]    

@@ -1,0 +1,44 @@
+.footer {
+    width: 1728px;
+    height: 65vh;
+    background-color: dimgray;
+
+}
+
+.con {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #fff;
+
+    h3 {
+        line-height: 90px;
+        font-weight: 600;
+    }
+    p{
+        font-weight: 500;
+        font-size: 18px;
+        
+    }
+
+    .b1 {
+        padding-top: 5rem;
+    }
+
+    .b2 {
+        h4 {
+            line-height: 70px;
+        }
+
+    }
+
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+    line-height: 180px; 
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 18px;
+}

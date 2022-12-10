@@ -1,0 +1,53 @@
+
+
+
+.menu {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    /* // position: fixed;
+    // z-index: auto;
+    // width: 1800px; */
+    background-attachment: fixed; 
+}
+.comp {
+    display: flex;
+    gap: 50px;
+    font-weight: 500;
+    font-size: 20px;
+    align-items: center;
+    a{
+        color: #000;
+        text-decoration: none;
+    }
+  
+}
+
+.korzina{
+    position: relative;
+    right: 1rem;
+    float: right;
+    cursor: pointer;
+    transition: color 500ms ease;
+   :hover{
+    color: rgb(245, 7, 7);
+    
+    
+   }
+  
+   
+ }
+ .kor{
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 800px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px 20px 20px 20px;
+    min-height: 200px;
+    box-shadow: 5px 8px 20px rgb(119, 117, 117);
+    z-index: 1000;
+ 
+ }

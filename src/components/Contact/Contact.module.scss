@@ -1,0 +1,30 @@
+    .kontact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.naw{
+    line-height: 8rem;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+
+.contact {
+    display: flex;
+    line-height: 2rem;
+    align-items: center;
+    h2{
+        font-size: 38px;
+        font-weight: 600;
+    }
+    p{
+        font-size:20px;
+    }
+}
+
+.chas {
+    padding-left: 1rem;
+    text-align: start;
+}

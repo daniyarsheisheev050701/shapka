@@ -1,0 +1,23 @@
+ .content {
+     width: 400px;
+     height: 615px;
+
+     &:hover {
+         box-shadow: 5px 5px 10px 10px rgb(210, 206, 206);
+         transition: 1s;
+     }
+
+
+
+ }
+
+ .like {
+     position: relative;
+     left: 21.5rem;
+     top: -35.5rem;
+ }
+ .plus {
+    position: relative;
+    left: 21.5rem;
+    top: -5.5rem;
+}
